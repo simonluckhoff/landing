@@ -8,6 +8,12 @@
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
 
+@font-face {
+  font-family: 'Base02';
+  src: url('/landing/fonts/Base\ 02.ttf');
+  font-weight: normal;
+  font-style: normal;
+  }
 
 /* Utilities */
 body {
